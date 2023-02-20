@@ -16,7 +16,7 @@ const Chat = ({ location }) => {
   const [users, setUsers] = useState([]);
   const [messages, setMessages] = useState([]);
   const [message, setMessage] = useState("");
-  const ENDPOINT = "https://react-chat-sumana.herokuapp.com/";
+  const ENDPOINT = "https://react-chat-application-jywg.onrender.com";
 
   //
 
